@@ -21,7 +21,7 @@ REEMPLAZAR: JSON-del-API-de-Flickr, TITULO, DESCRIPCION, DESCRIPCION2, DEMO, TEC
     <a href="https://github.com/sergioalegre/JSON-del-API-de-Flickr"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!-- DEMO --><a href="http://naarean.es/Programacion/_JSON_Flickr/">View Demo</a>
+    <!-- DEMO --><a href="http://naarean.es/Programacion/_JSON_Flickr/JSON_API_Flicrk.html">View Demo</a>
     ·
     <a href="https://github.com/sergioalegre/JSON-del-API-de-Flickr/issues">Report Bug</a>
     ·
@@ -34,7 +34,7 @@ REEMPLAZAR: JSON-del-API-de-Flickr, TITULO, DESCRIPCION, DESCRIPCION2, DEMO, TEC
 ## About The Project & Demo link
 [![Product Name Screen Shot][product-screenshot]](http://naarean.es/Programacion/_JSON_Flickr/captura.png)
 <!-- DESCRIPCION2 --> <!-- DEMO -->
-Ejemplo de manejo de carga de datos con un JSON que proporciona Flickr  <a href="http://naarean.es/Programacion/_JSON_Flickr/">Visita la demo aqui</a>
+Ejemplo de manejo de carga de datos con un JSON que proporciona Flickr  <a href="http://naarean.es/Programacion/_JSON_Flickr/JSON_API_Flicrk.html">Visita la demo aqui</a>
 
 
 <!-- CONTACT -->
