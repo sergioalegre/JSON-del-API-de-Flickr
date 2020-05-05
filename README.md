@@ -1,10 +1,7 @@
 <!--
 REEMPLAZAR: JSON-del-API-de-Flickr, TITULO, DESCRIPCION, DESCRIPCION2, DEMO, TECNOLOGIAS
 -->
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -30,53 +27,43 @@ REEMPLAZAR: JSON-del-API-de-Flickr, TITULO, DESCRIPCION, DESCRIPCION2, DEMO, TEC
 </p>
 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project & Demo link
-[![Product Name Screen Shot][product-screenshot]](http://naarean.es/Programacion/_JSON_Flickr/captura.png)
 <!-- DESCRIPCION2 --> <!-- DEMO -->
 Ejemplo de manejo de carga de datos con un JSON que proporciona Flickr  <a href="http://naarean.es/Programacion/_JSON_Flickr/JSON_API_Flicrk.html">Visita la demo aqui</a>
+<br><br>
+<p align="center">
+  <a href="http://naarean.es/Programacion/_JSON_Flickr/JSON_API_Flicrk.html">
+    <img src="http://naarean.es/Programacion/_JSON_Flickr/captura.PNG" alt="Logo" width="360" height="">
+  </a>
+</p>
 
-
-<!-- CONTACT -->
 ## Contact
-
 Email: sergio.alegre.arribas EN gmail.com
 <br>
 LinkedIn: https://www.linkedin.com/in/sergioalegre
 
 
 ### Built With
-<!-- TECNOLOGIAS -->
 * [JSON](JSON)
 * [API](API)
 
 
-<!-- GETTING STARTED -->
 ## Getting Started
-
 ---
 
 ### Prerequisites
-
 ---
 
 ### Installation
- 
 ---
 
-<!-- USAGE EXAMPLES -->
 ## Usage
-
 ---
 
-<!-- ROADMAP -->
 ## Roadmap
-
 ---
 
-<!-- CONTRIBUTING -->
 ## Contributing
-
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
@@ -85,22 +72,15 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<!-- CONTACT -->
 ## Contact
-
 Email: sergio.alegre.arribas EN gmail.com
 <br>
 LinkedIn: https://www.linkedin.com/in/sergioalegre
 
-
-<!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-
 * []()
 * []()
 * []()
@@ -108,4 +88,3 @@ LinkedIn: https://www.linkedin.com/in/sergioalegre
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sergioalegre
-[product-screenshot]: images/screenshot.png
