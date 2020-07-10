@@ -7,7 +7,7 @@ REEMPLAZAR: JSON-del-API-de-Flickr, TITULO, DESCRIPCION, DESCRIPCION2, DEMO, TEC
 <br />
 <p align="center">
   <a href="https://github.com/sergioalegre/JSON-del-API-de-Flickr">
-    <img src="http://naarean.es/logo.JPG" alt="Logo" width="80" height="80">
+    <img src="http://sergioalegre.es/logo.JPG" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"><!-- TITULO -->API Flickr & JSON</h3>
@@ -18,7 +18,7 @@ REEMPLAZAR: JSON-del-API-de-Flickr, TITULO, DESCRIPCION, DESCRIPCION2, DEMO, TEC
     <a href="https://github.com/sergioalegre/JSON-del-API-de-Flickr"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!-- DEMO --><a href="http://naarean.es/Programacion/_JSON_Flickr/JSON_API_Flicrk.html">View Demo</a>
+    <!-- DEMO --><a href="http://sergioalegre.es/Programacion/_JSON_Flickr/JSON_API_Flicrk.html">View Demo</a>
     ·
     <a href="https://github.com/sergioalegre/JSON-del-API-de-Flickr/issues">Report Bug</a>
     ·
@@ -37,10 +37,13 @@ Ejemplo de manejo de carga de datos con un JSON que proporciona Flickr  <a href=
   </a>
 </p>
 
+
 ## Contact
 Email: sergio.alegre.arribas EN gmail.com
 <br>
 LinkedIn: https://www.linkedin.com/in/sergioalegre
+<br>
+Website: http://me.sergioalegre.es
 
 
 ### Built With
@@ -74,16 +77,6 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-Email: sergio.alegre.arribas EN gmail.com
-<br>
-LinkedIn: https://www.linkedin.com/in/sergioalegre
-
-## Acknowledgements
-* []()
-* []()
-* []()
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
