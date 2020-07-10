@@ -32,8 +32,8 @@ REEMPLAZAR: JSON-del-API-de-Flickr, TITULO, DESCRIPCION, DESCRIPCION2, DEMO, TEC
 Ejemplo de manejo de carga de datos con un JSON que proporciona Flickr  <a href="http://naarean.es/Programacion/_JSON_Flickr/JSON_API_Flicrk.html">Visita la demo aqui</a>
 <br><br>
 <p align="center">
-  <a href="http://naarean.es/Programacion/_JSON_Flickr/JSON_API_Flicrk.html">
-    <img src="http://naarean.es/Programacion/_JSON_Flickr/captura.PNG" alt="Logo" width="360" height="">
+  <a href="http://sergioalegre.es/Programacion/_JSON_Flickr/JSON_API_Flicrk.html">
+    <img src="http://sergioalegre.es/Programacion/_JSON_Flickr/captura.PNG" alt="Logo" width="360" height="">
   </a>
 </p>
 
